@@ -1,3 +1,7 @@
 {
-    "1497043286": "Menu API"
+    "1497043286":{
+        "version":"1.0",
+        "status":true,
+        "name":"Menu API"
+    }
 }
