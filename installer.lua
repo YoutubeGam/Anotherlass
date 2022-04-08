@@ -1,5 +1,4 @@
 local function test(work)
-    local xd=work~=and work or 'client'
-    print(xd)
+    print(work~=nil and work or 'client')
 end;
 return test
